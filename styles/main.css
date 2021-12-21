@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap");
+* {
+  /* background-color: #24252A; */
+  margin: 0;
+  /* padding: 0; */
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+body {
+  /* background: url(./Images/background.jpg); */
+  background-color: #dbe4fa;
+}
+
+#main {
+    position: relative;
+  width: 77%;
+  float: right;
+  margin-left: 0;
+  margin-top: calc(5rem + 10px);
+  height: 100vh;
+  padding: 0;
+  /* background-color: #1e2c39; */
+}
+#main .top-card {
+  margin: 0;
+}
+#main .card {
+  margin: 0px 10px 10px 0px;
+  padding: 10px;
+}

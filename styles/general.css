@@ -1,0 +1,28 @@
+
+
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap");
+* {
+  /* background-color: #24252A; */
+  margin: 0;
+  /* padding: 0; */
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+body {
+  /* background: url(./Images/background.jpg); */
+  background-color: #dbe4fa;
+}
+.card {
+    /* border: 1px solid #ddd; */
+    background-color: #1e2c39;
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px -10px rgba(0, 0, 0, 0.75);
+    color: #dfe3f1;
+    padding-top: 30px;
+    position: relative;
+    max-width: 100%;
+    text-align: center;
+    margin: 10px;
+    /* padding: 20px; */
+    /* margin-bottom: 10px; */
+  }
